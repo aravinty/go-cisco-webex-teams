@@ -1,4 +1,4 @@
-module github.com/jbogarin/go-cisco-webex-teams
+module github.com/aravinty/go-cisco-webex-teams
 
 go 1.14
 
